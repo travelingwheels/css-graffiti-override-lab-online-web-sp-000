@@ -2,5 +2,7 @@
 #wall .tag-1 {
   display: none;
 }
-<div id="tag-2"></div>
-#tag-2
+
+#tag-2 {
+  display: none;
+}
